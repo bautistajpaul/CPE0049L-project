@@ -125,17 +125,17 @@ function build_calendar($month, $year) {
 
     <header class="header">
 
-        <a href="" class="logo" data-image="image/RenatosLOGO.png"></i>Renato's place</a>
+        <a href="" class="logo" data-image="image/RenatosLOGO.png"></i>Austin-Tanious Residences</a>
 
         <nav class="navbar">
             <a href="#home">Home</a>
             <a href="#about">About</a>     
             <a href="#gallery">Gallery</a>
             <a href="#room">Rooms</a>
-            <a href="#resort">Resort</a>
-            <a href="#event">Events</a>
+            <!-- <a href="#resort">Resort</a>
+            <a href="#event">Events</a> -->
             <a href="#faq">Faq</a>
-            <a href="reservation.php" class="btn"> Book Now</a>
+            <a href="reservation.php" class="btn">Login</a>
         </nav>
 
         <div id="menu-btn" class="fas fa-bars"></div>
@@ -150,28 +150,28 @@ function build_calendar($month, $year) {
 
             <div class="swiper-wrapper">
 
-                <div class="swiper-slide slide" style="background: url(image/home-slide5.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background: url(image/scholarHomeBG.png) no-repeat">
                     <div class="content">
-                        <h3>experience the balinese ambiance only at renato's place private resort and events</h3>
-                        <a href="#offer" class="btn"> visit our offer</a>
+                        <h3>Scholar’s Haven in University Belt</h3>
+                        <a href="#offer" class="btn">Check a place now</a>
                     </div>
                 </div>
-                <div class="swiper-slide slide" style="background: url(image/home-slide2.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background: url(image/scholarHomeBG.png) no-repeat">
                     <div class="content">
-                        <h3>experience the balinese ambiance only at renato's place private resort and events</h3>
-                        <a href="#offer" class="btn"> visit our offer</a>
+                        <h3>Scholar’s Haven in University Belt</h3>
+                        <a href="#offer" class="btn">Check a place now</a>
                     </div>
                 </div>
-                <div class="swiper-slide slide" style="background: url(image/home-slide3.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background: url(image/scholarHomeBG.png) no-repeat">
                     <div class="content">
-                        <h3>experience the balinese ambiance only at renato's place private resort and events</h3>
-                        <a href="#offer" class="btn"> visit our offer</a>
+                        <h3>Scholar’s Haven in University Belt</h3>
+                        <a href="#offer" class="btn">Check a place now</a>
                     </div>
                 </div>
-                <div class="swiper-slide slide" style="background: url(image/home-slide4.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background: url(image/scholarHomeBG.png) no-repeat">
                     <div class="content">
-                        <h3>experience the balinese ambiance only at renato's place private resort and events</h3>
-                        <a href="#offer" class="btn"> visit our offer</a>
+                        <h3>Scholar’s Haven in University Belt</h3>
+                        <a href="#offer" class="btn">Check a place now</a>
                     </div>
                 </div>
             </div>
@@ -185,7 +185,7 @@ function build_calendar($month, $year) {
 
     <!-- Calendar -->
 
-    <div class="container">
+    <!-- <div class="container">
         <div class="row">
             <div class="col-md-12">
             <div class="calendar" style="background:#3498db;border:none;color:#fff">
@@ -205,7 +205,7 @@ function build_calendar($month, $year) {
             
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- end -->
 
